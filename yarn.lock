@@ -6543,6 +6543,7 @@ websocket-extensions@>=0.1.1:
 "websql@github:expo/node-websql#18.0.0":
   version "0.4.4"
   resolved "git+ssh://git@github.com/expo/node-websql.git#e364fa65146a9e2157a19e5c719e7702c2b6b87a"
+  integrity sha512-A68/AZfiarhB5BXZEpBXGq5Gn7zfo3Xe2Vs5y5KCp1PJVA/GDHw/eHaWpgZFJFOQH1WCSfq9noqbotvkDdIJeA==
   dependencies:
     argsarray "^0.0.1"
     immediate "^3.2.2"
